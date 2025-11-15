@@ -1,4 +1,4 @@
-# Rent-analysis-and-prediction
+# Statistical Modeling for Housing Rent Prediction.
 This project utilizes a comprehensive dataset of residential rental properties from major urban cities in India, sourced from Kaggle. The dataset incorporates a wide array of property attributes, including locality, size, amenities, and other relevant features that influence rental prices. Rigorous exploratory data analysis was conducted to uncover key trends, distribution patterns, and the principal factors driving rent values within urban markets.
 Building on these insights, advanced machine learning regression techniques such as XGBoost and Random Forest were implemented to develop predictive models for estimating rental prices. Comparative evaluation of model accuracy and residual patterns provided a data-driven foundation for understanding the dynamics of rental pricing and optimizing predictions.
 
